@@ -1,4 +1,4 @@
-# Comp-Vision
+# Computer Vision
 
 ## 1. Preprocessing (Conversion from CSV and TXT to XML annotations)
 
