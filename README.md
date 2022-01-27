@@ -35,8 +35,7 @@ Selenium <br>
 urlib.request <br>
 time <br>
 os <br>
-ChromeDriver (update the path to your downloaded chromedriver in the code) <br>
-Before this, download Chromedriver at: https://sites.google.com/chromium.org/driver/ by selecting the appropriate driver based on your chrome version.<br>
+ChromeDriver (update the path to your downloaded chromedriver in the code). Before this, download Chromedriver at: https://sites.google.com/chromium.org/driver/ by selecting the appropriate driver based on your chrome version.<br>
 
 ### Usage
 This Webscraper tool is designed to extract images from the Getty website (https://www.gettyimages.in/), by finding the image elements using the xpath locator and clicking on the next button via a pagination loop to extract images from every page.<br>
