@@ -2,12 +2,12 @@
 
 # 1. Preprocessing (Conversion from CSV and TXT to XML annotations)
 
-Pipeline that converts from csv to xml (Google Open Images) and Synonym Finder
-Pipeline that converts from txt to xml (Kitti)
+- Pipeline that converts from csv to xml (Google Open Images) and Synonym Finder
+- Pipeline that converts from txt to xml (Kitti)
 
 
 # 2. Pre Downloader Visual Check Summary (Open Image Dataset).ipynb
-Issue that the Pre-Downloader Visual Check Summary portion of the pipeline attempts to address:
+Issue that the Pre-Downloader Visual Check Summary portion of the pipeline attempts to address:\n
 There is time and processing cost involved in downloading large datasets. Before downloading the entire dataset, summary analysis can be carried on csv data and through sample data attained. Such insights can better inform on the suitability and preprocessing required of the dataset.
 
 ## Data issues:
